@@ -1,0 +1,139 @@
+.filters {
+  background: var(--white);
+  border-radius: var(--radius-md);
+  padding: var(--spacing-lg);
+  box-shadow: var(--shadow-sm);
+}
+
+.filterHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--spacing-lg);
+  padding-bottom: var(--spacing-md);
+  border-bottom: 1px solid var(--gray-200);
+}
+
+.filterHeader h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.resetButton {
+  background: none;
+  border: none;
+  color: var(--primary);
+  cursor: pointer;
+  font-size: 0.875rem;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border-radius: var(--radius-sm);
+  transition: var(--transition);
+}
+
+.resetButton:hover {
+  background: var(--primary-light);
+}
+
+.filterSection {
+  margin-bottom: var(--spacing-xl);
+  padding-bottom: var(--spacing-lg);
+  border-bottom: 1px solid var(--gray-200);
+}
+
+.filterSection:last-of-type {
+  border-bottom: none;
+}
+
+.filterSection h4 {
+  margin: 0 0 var(--spacing-md) 0;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--gray-900);
+}
+
+.checkbox,
+.radio {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+  padding: var(--spacing-sm) 0;
+  cursor: pointer;
+  transition: var(--transition);
+}
+
+.checkbox:hover,
+.radio:hover {
+  color: var(--primary);
+}
+
+.checkbox input[type="checkbox"],
+.radio input[type="radio"] {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+  accent-color: var(--primary);
+}
+
+.checkbox span,
+.radio span {
+  flex: 1;
+}
+
+.count {
+  color: var(--gray-500);
+  font-size: 0.875rem;
+}
+
+.priceInputs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-md);
+}
+
+.priceInput {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-xs);
+}
+
+.priceInput label {
+  font-size: 0.875rem;
+  color: var(--gray-600);
+}
+
+.priceInput input[type="number"] {
+  padding: var(--spacing-sm);
+  border: 1px solid var(--gray-300);
+  border-radius: var(--radius-sm);
+  font-size: 0.875rem;
+}
+
+.priceRange {
+  margin-bottom: var(--spacing-sm);
+}
+
+.rangeSlider {
+  width: 100%;
+  height: 6px;
+  cursor: pointer;
+  accent-color: var(--primary);
+}
+
+.priceLabels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.75rem;
+  color: var(--gray-500);
+}
+
+@media (max-width: 768px) {
+  .filters {
+    padding: var(--spacing-md);
+  }
+
+  .filterSection {
+    margin-bottom: var(--spacing-lg);
+  }
+}

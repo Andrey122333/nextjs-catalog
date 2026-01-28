@@ -1,0 +1,1945 @@
+[
+  {
+    "id": 1,
+    "name": "Lavazza Qualità Rossa",
+    "slug": "lavazza-qualita-rossa",
+    "description": "Классический итальянский эспрессо со средней обжаркой",
+    "fullDescription": "Lavazza Qualità Rossa — это идеальное сочетание бразильской и африканской арабики. Насыщенный вкус с нотками шоколада и карамели. Отлично подходит для эспрессо и напитков на его основе.",
+    "price": 890,
+    "oldPrice": null,
+    "category": "coffee",
+    "categoryName": "Кофе",
+    "brand": "Lavazza",
+    "rating": 4.8,
+    "reviewCount": 24,
+    "inStock": true,
+    "stockQuantity": 12,
+    "badge": "Хит продаж",
+    "images": [
+      "/images/products/lavazza-rossa-1.jpg",
+      "/images/products/lavazza-rossa-2.jpg",
+      "/images/products/lavazza-rossa-3.jpg"
+    ],
+    "specs": {
+      "Вес": "1000 г",
+      "Тип обжарки": "Средняя",
+      "Вид кофе": "Арабика 100%",
+      "Страна": "Италия",
+      "Срок годности": "18 месяцев"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Алексей М.",
+        "rating": 5,
+        "date": "2026-01-15",
+        "text": "Отличный кофе! Беру уже второй раз.",
+        "helpful": 12
+      },
+      {
+        "id": 2,
+        "author": "Мария К.",
+        "rating": 5,
+        "date": "2026-01-10",
+        "text": "Насыщенный вкус, отличное соотношение цены и качества.",
+        "helpful": 8
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Illy Espresso",
+    "slug": "illy-espresso",
+    "description": "Тёмная обжарка, премиум класс",
+    "fullDescription": "Illy Espresso — это премиальный кофе с тёмной обжаркой. Интенсивный вкус с бархатистой пенкой. Идеально для настоящих ценителей крепкого эспрессо.",
+    "price": 1290,
+    "oldPrice": null,
+    "category": "coffee",
+    "categoryName": "Кофе",
+    "brand": "Illy",
+    "rating": 4.9,
+    "reviewCount": 31,
+    "inStock": true,
+    "stockQuantity": 8,
+    "badge": null,
+    "images": [
+      "/images/products/illy-espresso-1.jpg",
+      "/images/products/illy-espresso-2.jpg"
+    ],
+    "specs": {
+      "Вес": "250 г",
+      "Тип обжарки": "Тёмная",
+      "Вид кофе": "Арабика 100%",
+      "Страна": "Италия",
+      "Срок годности": "24 месяца"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Дмитрий П.",
+        "rating": 5,
+        "date": "2026-01-20",
+        "text": "Лучший эспрессо, который я пробовал!",
+        "helpful": 15
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Paulig Classic",
+    "slug": "paulig-classic",
+    "description": "Средняя обжарка, молотый",
+    "fullDescription": "Paulig Classic — классический молотый кофе средней обжарки. Сбалансированный вкус с лёгкой кислинкой. Подходит для турки и кофеварки.",
+    "price": 690,
+    "oldPrice": null,
+    "category": "coffee",
+    "categoryName": "Кофе",
+    "brand": "Paulig",
+    "rating": 4.6,
+    "reviewCount": 18,
+    "inStock": true,
+    "stockQuantity": 15,
+    "badge": null,
+    "images": [
+      "/images/products/paulig-classic-1.jpg"
+    ],
+    "specs": {
+      "Вес": "500 г",
+      "Тип обжарки": "Средняя",
+      "Вид кофе": "Арабика/Робуста",
+      "Страна": "Финляндия",
+      "Срок годности": "18 месяцев"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Елена С.",
+        "rating": 4,
+        "date": "2026-01-12",
+        "text": "Хороший кофе за свою цену.",
+        "helpful": 5
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lavazza Crema e Gusto",
+    "slug": "lavazza-crema-e-gusto",
+    "description": "Тёмная обжарка, насыщенный вкус",
+    "fullDescription": "Lavazza Crema e Gusto — кофе с тёмной обжаркой для любителей крепкого напитка. Богатый вкус с нотками какао и специй.",
+    "price": 790,
+    "oldPrice": null,
+    "category": "coffee",
+    "categoryName": "Кофе",
+    "brand": "Lavazza",
+    "rating": 4.7,
+    "reviewCount": 21,
+    "inStock": true,
+    "stockQuantity": 10,
+    "badge": null,
+    "images": [
+      "/images/products/lavazza-crema-1.jpg",
+      "/images/products/lavazza-crema-2.jpg"
+    ],
+    "specs": {
+      "Вес": "1000 г",
+      "Тип обжарки": "Тёмная",
+      "Вид кофе": "Арабика/Робуста",
+      "Страна": "Италия",
+      "Срок годности": "18 месяцев"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Игорь В.",
+        "rating": 5,
+        "date": "2026-01-18",
+        "text": "Крепкий и ароматный, именно то, что нужно по утрам!",
+        "helpful": 9
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Illy Intenso",
+    "slug": "illy-intenso",
+    "description": "Интенсивная обжарка, капсулы",
+    "fullDescription": "Illy Intenso в капсулах — удобство приготовления и неизменное качество. Интенсивный вкус для настоящих ценителей.",
+    "price": 1390,
+    "oldPrice": null,
+    "category": "coffee",
+    "categoryName": "Кофе",
+    "brand": "Illy",
+    "rating": 4.8,
+    "reviewCount": 16,
+    "inStock": false,
+    "stockQuantity": 0,
+    "badge": null,
+    "images": [
+      "/images/products/illy-intenso-1.jpg"
+    ],
+    "specs": {
+      "Вес": "10 капсул",
+      "Тип обжарки": "Интенсивная",
+      "Вид кофе": "Арабика 100%",
+      "Страна": "Италия",
+      "Срок годности": "24 месяца"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Ольга Н.",
+        "rating": 5,
+        "date": "2026-01-05",
+        "text": "Очень удобные капсулы, вкус превосходный!",
+        "helpful": 7
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Paulig Arabica",
+    "slug": "paulig-arabica",
+    "description": "Светлая обжарка, 100% арабика",
+    "fullDescription": "Paulig Arabica — мягкий кофе светлой обжарки. Деликатный вкус с цветочными нотками. Для тех, кто ценит утончённость.",
+    "price": 890,
+    "oldPrice": null,
+    "category": "coffee",
+    "categoryName": "Кофе",
+    "brand": "Paulig",
+    "rating": 4.7,
+    "reviewCount": 14,
+    "inStock": true,
+    "stockQuantity": 9,
+    "badge": null,
+    "images": [
+      "/images/products/paulig-arabica-1.jpg"
+    ],
+    "specs": {
+      "Вес": "1000 г",
+      "Тип обжарки": "Светлая",
+      "Вид кофе": "Арабика 100%",
+      "Страна": "Финляндия",
+      "Срок годности": "18 месяцев"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Анна Л.",
+        "rating": 5,
+        "date": "2026-01-14",
+        "text": "Мягкий и ароматный, без горечи!",
+        "helpful": 6
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Lavazza Tierra",
+    "slug": "lavazza-tierra",
+    "description": "Органический кофе, средняя обжарка",
+    "fullDescription": "Lavazza Tierra — органический кофе, выращенный с заботой о природе. Гармоничный вкус с нотками мёда и орехов.",
+    "price": 990,
+    "oldPrice": null,
+    "category": "coffee",
+    "categoryName": "Кофе",
+    "brand": "Lavazza",
+    "rating": 4.9,
+    "reviewCount": 27,
+    "inStock": true,
+    "stockQuantity": 7,
+    "badge": "Новинка",
+    "images": [
+      "/images/products/lavazza-tierra-1.jpg",
+      "/images/products/lavazza-tierra-2.jpg"
+    ],
+    "specs": {
+      "Вес": "1000 г",
+      "Тип обжарки": "Средняя",
+      "Вид кофе": "Арабика 100%",
+      "Страна": "Италия",
+      "Срок годности": "18 месяцев"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Сергей Т.",
+        "rating": 5,
+        "date": "2026-01-22",
+        "text": "Отличный органический кофе, рекомендую!",
+        "helpful": 11
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Illy Decaf",
+    "slug": "illy-decaf",
+    "description": "Без кофеина, зерно",
+    "fullDescription": "Illy Decaf — кофе без кофеина с сохранением полного вкуса. Идеально для вечернего употребления.",
+    "price": 1190,
+    "oldPrice": null,
+    "category": "coffee",
+    "categoryName": "Кофе",
+    "brand": "Illy",
+    "rating": 4.5,
+    "reviewCount": 12,
+    "inStock": true,
+    "stockQuantity": 6,
+    "badge": null,
+    "images": [
+      "/images/products/illy-decaf-1.jpg"
+    ],
+    "specs": {
+      "Вес": "250 г",
+      "Тип обжарки": "Средняя",
+      "Вид кофе": "Арабика 100% (без кофеина)",
+      "Страна": "Италия",
+      "Срок годности": "24 месяца"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Виктория Р.",
+        "rating": 4,
+        "date": "2026-01-08",
+        "text": "Хороший вкус, несмотря на отсутствие кофеина.",
+        "helpful": 4
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Кружка \"Hello World\"",
+    "slug": "kruzhka-hello-world",
+    "description": "Керамическая кружка 350мл",
+    "fullDescription": "Кружка \"Hello World\" — must-have для каждого разработчика. Качественная керамика, яркий принт, удобная форма. Можно мыть в посудомоечной машине.",
+    "price": 490,
+    "oldPrice": null,
+    "category": "accessories",
+    "categoryName": "Аксессуары",
+    "brand": "CodeGear",
+    "rating": 4.8,
+    "reviewCount": 42,
+    "inStock": true,
+    "stockQuantity": 25,
+    "badge": "Хит продаж",
+    "images": [
+      "/images/products/mug-hello-world-1.jpg",
+      "/images/products/mug-hello-world-2.jpg"
+    ],
+    "specs": {
+      "Объём": "350 мл",
+      "Материал": "Керамика",
+      "Цвет": "Чёрный",
+      "Можно в посудомойку": "Да",
+      "Можно в микроволновку": "Да"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Максим Г.",
+        "rating": 5,
+        "date": "2026-01-19",
+        "text": "Отличная кружка! Принт не стирается после многих моек.",
+        "helpful": 18
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Термос Stanley",
+    "slug": "termos-stanley",
+    "description": "Нержавеющая сталь, 500мл",
+    "fullDescription": "Термос Stanley — легендарное качество и надёжность. Держит температуру до 24 часов. Идеально для поездок и долгих рабочих сессий.",
+    "price": 2490,
+    "oldPrice": null,
+    "category": "accessories",
+    "categoryName": "Аксессуары",
+    "brand": "Stanley",
+    "rating": 4.9,
+    "reviewCount": 38,
+    "inStock": true,
+    "stockQuantity": 11,
+    "badge": null,
+    "images": [
+      "/images/products/stanley-thermos-1.jpg",
+      "/images/products/stanley-thermos-2.jpg",
+      "/images/products/stanley-thermos-3.jpg"
+    ],
+    "specs": {
+      "Объём": "500 мл",
+      "Материал": "Нержавеющая сталь",
+      "Цвет": "Тёмно-зелёный",
+      "Время сохранения тепла": "24 часа",
+      "Время сохранения холода": "36 часов"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Павел Ж.",
+        "rating": 5,
+        "date": "2026-01-16",
+        "text": "Невероятно! Кофе остаётся горячим целый день!",
+        "helpful": 22
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Турка медная",
+    "slug": "turka-mednaya",
+    "description": "Ручная работа, 350мл",
+    "fullDescription": "Турка медная — традиционный способ приготовления кофе. Ручная работа, толстое дно для равномерного нагрева. Деревянная ручка.",
+    "price": 890,
+    "oldPrice": null,
+    "category": "accessories",
+    "categoryName": "Аксессуары",
+    "brand": "CoffeeCraft",
+    "rating": 4.7,
+    "reviewCount": 19,
+    "inStock": true,
+    "stockQuantity": 8,
+    "badge": null,
+    "images": [
+      "/images/products/cezve-copper-1.jpg"
+    ],
+    "specs": {
+      "Объём": "350 мл",
+      "Материал": "Медь",
+      "Ручка": "Дерево",
+      "Количество порций": "2-3",
+      "Производство": "Ручная работа"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Татьяна М.",
+        "rating": 5,
+        "date": "2026-01-11",
+        "text": "Красивая турка, кофе получается очень вкусным!",
+        "helpful": 10
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Френч-пресс Bodum",
+    "slug": "french-press-bodum",
+    "description": "Стеклянный корпус, 1 литр",
+    "fullDescription": "Френч-пресс Bodum — классика кофейной культуры. Жаропрочное стекло, нержавеющая сталь, элегантный дизайн. Позволяет раскрыть все оттенки вкуса кофе.",
+    "price": 1890,
+    "oldPrice": null,
+    "category": "accessories",
+    "categoryName": "Аксессуары",
+    "brand": "Bodum",
+    "rating": 4.8,
+    "reviewCount": 29,
+    "inStock": true,
+    "stockQuantity": 14,
+    "badge": null,
+    "images": [
+      "/images/products/bodum-french-press-1.jpg",
+      "/images/products/bodum-french-press-2.jpg"
+    ],
+    "specs": {
+      "Объём": "1000 мл",
+      "Материал": "Жаропрочное стекло",
+      "Фильтр": "Нержавеющая сталь",
+      "Количество порций": "8 чашек",
+      "Можно в посудомойку": "Да"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Андрей К.",
+        "rating": 5,
+        "date": "2026-01-17",
+        "text": "Отличный френч-пресс! Качество Bodum на высоте.",
+        "helpful": 14
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Кружка \"Git Commit\"",
+    "slug": "kruzhka-git-commit",
+    "description": "Керамическая кружка 350мл",
+    "fullDescription": "Кружка \"Git Commit\" — для тех, кто коммитит не только код, но и хорошее настроение. Качественная керамика, стойкий принт.",
+    "price": 490,
+    "oldPrice": null,
+    "category": "accessories",
+    "categoryName": "Аксессуары",
+    "brand": "CodeGear",
+    "rating": 4.9,
+    "reviewCount": 51,
+    "inStock": true,
+    "stockQuantity": 30,
+    "badge": "Хит продаж",
+    "images": [
+      "/images/products/mug-git-commit-1.jpg"
+    ],
+    "specs": {
+      "Объём": "350 мл",
+      "Материал": "Керамика",
+      "Цвет": "Белый",
+      "Можно в посудомойку": "Да",
+      "Можно в микроволновку": "Да"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Евгений Б.",
+        "rating": 5,
+        "date": "2026-01-21",
+        "text": "Лучший подарок для программиста! Взял 3 штуки.",
+        "helpful": 25
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Термокружка Contigo",
+    "slug": "termokruzhka-contigo",
+    "description": "Автокружка, 470мл",
+    "fullDescription": "Термокружка Contigo — идеальна для путешествий и работы. Вакуумная изоляция, защита от проливания, удобная крышка.",
+    "price": 1490,
+    "oldPrice": null,
+    "category": "accessories",
+    "categoryName": "Аксессуары",
+    "brand": "Contigo",
+    "rating": 4.7,
+    "reviewCount": 23,
+    "inStock": false,
+    "stockQuantity": 0,
+    "badge": null,
+    "images": [
+      "/images/products/contigo-mug-1.jpg"
+    ],
+    "specs": {
+      "Объём": "470 мл",
+      "Материал": "Нержавеющая сталь",
+      "Цвет": "Матовый серый",
+      "Время сохранения тепла": "6 часов",
+      "Защита от проливания": "Да"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Людмила В.",
+        "rating": 5,
+        "date": "2026-01-09",
+        "text": "Удобная кружка, не проливается в сумке!",
+        "helpful": 8
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Клавиатура Keychron K2",
+    "slug": "klaviatura-keychron-k2",
+    "description": "Механическая, беспроводная",
+    "fullDescription": "Клавиатура Keychron K2 — популярная механическая клавиатура для программистов. Компактный формат 75%, горячая замена переключателей, RGB подсветка. Работает по Bluetooth и USB-C.",
+    "price": 5490,
+    "oldPrice": null,
+    "category": "gadgets",
+    "categoryName": "Гаджеты",
+    "brand": "Keychron",
+    "rating": 4.9,
+    "reviewCount": 87,
+    "inStock": true,
+    "stockQuantity": 5,
+    "badge": "Хит продаж",
+    "images": [
+      "/images/products/keychron-k2-1.jpg",
+      "/images/products/keychron-k2-2.jpg",
+      "/images/products/keychron-k2-3.jpg"
+    ],
+    "specs": {
+      "Тип": "Механическая",
+      "Переключатели": "Gateron Red",
+      "Подключение": "Bluetooth 5.1 / USB-C",
+      "Формат": "75% (84 клавиши)",
+      "Подсветка": "RGB",
+      "Батарея": "До 240 часов"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Кирилл Д.",
+        "rating": 5,
+        "date": "2026-01-23",
+        "text": "Лучшая клавиатура для кодинга! Очень удобная.",
+        "helpful": 45
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Мышь Logitech MX Master 3",
+    "slug": "mysh-logitech-mx-master-3",
+    "description": "Эргономичная, беспроводная",
+    "fullDescription": "Logitech MX Master 3 — легендарная мышь для профессионалов. Точный датчик, программируемые кнопки, горизонтальная прокрутка, эргономичная форма. Работает до 70 дней от одного заряда.",
+    "price": 6990,
+    "oldPrice": null,
+    "category": "gadgets",
+    "categoryName": "Гаджеты",
+    "brand": "Logitech",
+    "rating": 4.9,
+    "reviewCount": 124,
+    "inStock": true,
+    "stockQuantity": 7,
+    "badge": "Хит продаж",
+    "images": [
+      "/images/products/logitech-mx-master-3-1.jpg",
+      "/images/products/logitech-mx-master-3-2.jpg"
+    ],
+    "specs": {
+      "Датчик": "4000 DPI",
+      "Подключение": "Bluetooth / USB-receiver",
+      "Батарея": "До 70 дней",
+      "Кнопки": "7 программируемых",
+      "Совместимость": "Windows, macOS, Linux",
+      "Быстрая зарядка": "3 часа работы за 1 минуту зарядки"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Николай З.",
+        "rating": 5,
+        "date": "2026-01-24",
+        "text": "Идеальная мышь! Рука не устаёт даже после 10 часов работы.",
+        "helpful": 56
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Наушники Sony WH-1000XM5",
+    "slug": "naushniki-sony-wh-1000xm5",
+    "description": "С шумоподавлением, премиум",
+    "fullDescription": "Sony WH-1000XM5 — топовые наушники с активным шумоподавлением. Превосходное качество звука, комфорт на весь день, до 30 часов работы. Идеальны для концентрации на работе.",
+    "price": 24990,
+    "oldPrice": null,
+    "category": "gadgets",
+    "categoryName": "Гаджеты",
+    "brand": "Sony",
+    "rating": 4.8,
+    "reviewCount": 92,
+    "inStock": false,
+    "stockQuantity": 0,
+    "badge": null,
+    "images": [
+      "/images/products/sony-wh-1000xm5-1.jpg",
+      "/images/products/sony-wh-1000xm5-2.jpg"
+    ],
+    "specs": {
+      "Тип": "Накладные, беспроводные",
+      "Шумоподавление": "Активное (ANC)",
+      "Батарея": "До 30 часов",
+      "Драйверы": "30 мм",
+      "Кодеки": "LDAC, AAC, SBC",
+      "Быстрая зарядка": "3 часа работы за 3 минуты зарядки"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Александра П.",
+        "rating": 5,
+        "date": "2026-01-13",
+        "text": "Шумоподавление просто невероятное! Полное погружение в работу.",
+        "helpful": 38
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "USB-хаб Anker 7-in-1",
+    "slug": "usb-hab-anker-7-in-1",
+    "description": "USB-C хаб, 7 портов",
+    "fullDescription": "USB-хаб Anker 7-in-1 — решение всех проблем с портами. HDMI 4K@60Hz, 3 USB 3.0, USB-C PD 100W, SD/microSD. Компактный и надёжный.",
+    "price": 2490,
+    "oldPrice": null,
+    "category": "gadgets",
+    "categoryName": "Гаджеты",
+    "brand": "Anker",
+    "rating": 4.7,
+    "reviewCount": 64,
+    "inStock": true,
+    "stockQuantity": 18,
+    "badge": null,
+    "images": [
+      "/images/products/anker-hub-1.jpg"
+    ],
+    "specs": {
+      "Порты": "7 портов",
+      "HDMI": "4K@60Hz",
+      "USB 3.0": "3 порта (5 Gbps)",
+      "USB-C PD": "100W",
+      "Карт-ридер": "SD/microSD",
+      "Совместимость": "MacBook, Windows, Linux"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Роман Ш.",
+        "rating": 5,
+        "date": "2026-01-20",
+        "text": "Отличный хаб! Все работает стабильно, без нареканий.",
+        "helpful": 28
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Клавиатура Logitech K380",
+    "slug": "klaviatura-logitech-k380",
+    "description": "Компактная, мультиплатформенная",
+    "fullDescription": "Logitech K380 — компактная беспроводная клавиатура. Переключение между 3 устройствами одной кнопкой. Бесшумные клавиши, долгая автономность. Идеальна для минималистов.",
+    "price": 2490,
+    "oldPrice": null,
+    "category": "gadgets",
+    "categoryName": "Гаджеты",
+    "brand": "Logitech",
+    "rating": 4.6,
+    "reviewCount": 76,
+    "inStock": true,
+    "stockQuantity": 22,
+    "badge": null,
+    "images": [
+      "/images/products/logitech-k380-1.jpg",
+      "/images/products/logitech-k380-2.jpg"
+    ],
+    "specs": {
+      "Тип": "Мембранная",
+      "Подключение": "Bluetooth",
+      "Устройства": "До 3 одновременно",
+      "Батарея": "До 2 лет (2 AAA)",
+      "Совместимость": "Windows, macOS, iOS, Android",
+      "Размер": "Компактный"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Валентина И.",
+        "rating": 4,
+        "date": "2026-01-18",
+        "text": "Удобная клавиатура, очень тихая. Немного непривычная раскладка сначала.",
+        "helpful": 19
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Мышь Keychron M1",
+    "slug": "mysh-keychron-m1",
+    "description": "Беспроводная, эргономичная",
+    "fullDescription": "Keychron M1 — беспроводная мышь с классическим дизайном. Точный датчик, удобная форма, бесшумные клики. Отлично сочетается с клавиатурами Keychron.",
+    "price": 2990,
+    "oldPrice": null,
+    "category": "gadgets",
+    "categoryName": "Гаджеты",
+    "brand": "Keychron",
+    "rating": 4.7,
+    "reviewCount": 43,
+    "inStock": true,
+    "stockQuantity": 16,
+    "badge": null,
+    "images": [
+      "/images/products/keychron-m1-1.jpg"
+    ],
+    "specs": {
+      "Датчик": "3200 DPI",
+      "Подключение": "Bluetooth 5.1 / USB-C",
+      "Батарея": "До 90 дней",
+      "Кнопки": "5",
+      "Вес": "95 г",
+      "Совместимость": "Windows, macOS, Linux"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Илья Ф.",
+        "rating": 5,
+        "date": "2026-01-22",
+        "text": "Отличная мышь за свои деньги! Лёгкая и удобная.",
+        "helpful": 15
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "\"Чистый код\" Роберт Мартин",
+    "slug": "chistyj-kod-robert-martin",
+    "description": "Классика программирования",
+    "fullDescription": "\"Чистый код\" Роберта Мартина — must-read для каждого разработчика. Книга учит писать код, который легко читать и поддерживать. Практические советы и реальные примеры.",
+    "price": 1290,
+    "oldPrice": null,
+    "category": "books",
+    "categoryName": "Книги",
+    "brand": "Питер",
+    "rating": 4.9,
+    "reviewCount": 156,
+    "inStock": true,
+    "stockQuantity": 18,
+    "badge": "Хит продаж",
+    "images": [
+      "/images/products/clean-code-1.jpg"
+    ],
+    "specs": {
+      "Автор": "Роберт Мартин",
+      "Издательство": "Питер",
+      "Страниц": "464",
+      "Год издания": "2023",
+      "Переплёт": "Твёрдый",
+      "Язык": "Русский"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Дмитрий Х.",
+        "rating": 5,
+        "date": "2026-01-25",
+        "text": "Книга изменила мой подход к написанию кода. Обязательна к прочтению!",
+        "helpful": 89
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "\"JavaScript: полное руководство\"",
+    "slug": "javascript-polnoe-rukovodstvo",
+    "description": "Дэвид Флэнаган, O'Reilly",
+    "fullDescription": "\"JavaScript: полное руководство\" — исчерпывающий справочник по JavaScript. Охватывает ES2020 и новые возможности языка. Более 700 страниц детального описания.",
+    "price": 2490,
+    "oldPrice": null,
+    "category": "books",
+    "categoryName": "Книги",
+    "brand": "O'Reilly",
+    "rating": 4.8,
+    "reviewCount": 98,
+    "inStock": true,
+    "stockQuantity": 12,
+    "badge": null,
+    "images": [
+      "/images/products/js-definitive-guide-1.jpg"
+    ],
+    "specs": {
+      "Автор": "Дэвид Флэнаган",
+      "Издательство": "O'Reilly",
+      "Страниц": "708",
+      "Год издания": "2022",
+      "Переплёт": "Мягкий",
+      "Язык": "Русский"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Ирина Ч.",
+        "rating": 5,
+        "date": "2026-01-19",
+        "text": "Лучший справочник по JavaScript! Всегда под рукой.",
+        "helpful": 52
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "\"Совершенный код\" Стив Макконнелл",
+    "slug": "sovershennyj-kod-stiv-makkonnell",
+    "description": "Библия разработчика",
+    "fullDescription": "\"Совершенный код\" Стива Макконнелла — всеобъемлющее руководство по созданию качественного ПО. Охватывает все аспекты разработки: от проектирования до тестирования.",
+    "price": 1890,
+    "oldPrice": null,
+    "category": "books",
+    "categoryName": "Книги",
+    "brand": "Русская Редакция",
+    "rating": 4.9,
+    "reviewCount": 203,
+    "inStock": true,
+    "stockQuantity": 9,
+    "badge": "Хит продаж",
+    "images": [
+      "/images/products/code-complete-1.jpg"
+    ],
+    "specs": {
+      "Автор": "Стив Макконнелл",
+      "Издательство": "Русская Редакция",
+      "Страниц": "896",
+      "Год издания": "2022",
+      "Переплёт": "Твёрдый",
+      "Язык": "Русский"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Олег С.",
+        "rating": 5,
+        "date": "2026-01-26",
+        "text": "Настольная книга каждого серьёзного разработчика. Бесценная!",
+        "helpful": 127
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "\"Грокаем алгоритмы\" Адитья Бхаргава",
+    "slug": "grokaem-algoritmy-aditya-bhargava",
+    "description": "Иллюстрированное руководство",
+    "fullDescription": "\"Грокаем алгоритмы\" — уникальная книга с иллюстрациями, которая делает алгоритмы понятными. Идеальна для начинающих и тех, кто хочет освежить знания.",
+    "price": 990,
+    "oldPrice": null,
+    "category": "books",
+    "categoryName": "Книги",
+    "brand": "Manning",
+    "rating": 4.7,
+    "reviewCount": 134,
+    "inStock": true,
+    "stockQuantity": 21,
+    "badge": null,
+    "images": [
+      "/images/products/grokking-algorithms-1.jpg"
+    ],
+    "specs": {
+      "Автор": "Адитья Бхаргава",
+      "Издательство": "Manning/Питер",
+      "Страниц": "288",
+      "Год издания": "2023",
+      "Переплёт": "Мягкий",
+      "Язык": "Русский"
+    },
+    "reviews": [
+      {
+        "id": 1,
+        "author": "Марина Э.",
+        "rating": 5,
+        "date": "2026-01-21",
+        "text": "Отлично объясняет сложные вещи простым языком. Много картинок!",
+        "helpful": 71
+      }
+    ]
+  },
+    {
+      "id": 25,
+      "name": "Lavazza Espresso Barista Intenso",
+      "slug": "lavazza-espresso-barista-intenso",
+      "description": "Интенсивная обжарка, зерно",
+      "fullDescription": "Lavazza Espresso Barista Intenso — насыщенный кофе для эспрессо. Плотное тело, выраженные нотки какао и пряностей. Хорошо раскрывается в рожковой кофемашине и гейзере.",
+      "price": 890,
+      "oldPrice": null,
+      "category": "coffee",
+      "categoryName": "Кофе",
+      "brand": "Lavazza",
+      "rating": 4.7,
+      "reviewCount": 19,
+      "inStock": true,
+      "stockQuantity": 12,
+      "badge": null,
+      "images": [
+        "/images/products/lavazza-barista-intenso-1.jpg",
+        "/images/products/lavazza-barista-intenso-2.jpg"
+      ],
+      "specs": {
+        "Вес": "1000 г",
+        "Тип обжарки": "Тёмная",
+        "Вид кофе": "Арабика/Робуста",
+        "Страна": "Италия",
+        "Срок годности": "18 месяцев"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Мария К.",
+          "rating": 5,
+          "date": "2026-01-07",
+          "text": "Пользуюсь каждый день, очень удобно.",
+          "helpful": 22
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Lavazza Qualità Oro",
+      "slug": "lavazza-qualita-oro",
+      "description": "Мягкий вкус, 100% арабика",
+      "fullDescription": "Lavazza Qualità Oro — ароматная арабика со сбалансированным профилем. Нотки фруктов и цветов, чистое послевкусие. Подходит для фильтра и эспрессо.",
+      "price": 990,
+      "oldPrice": null,
+      "category": "coffee",
+      "categoryName": "Кофе",
+      "brand": "Lavazza",
+      "rating": 4.8,
+      "reviewCount": 28,
+      "inStock": true,
+      "stockQuantity": 9,
+      "badge": "Новинка",
+      "images": [
+        "/images/products/lavazza-oro-1.jpg",
+        "/images/products/lavazza-oro-2.jpg"
+      ],
+      "specs": {
+        "Вес": "1000 г",
+        "Тип обжарки": "Средняя",
+        "Вид кофе": "Арабика 100%",
+        "Страна": "Италия",
+        "Срок годности": "18 месяцев"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Сергей Т.",
+          "rating": 5,
+          "date": "2026-01-15",
+          "text": "Вкус/качество на высоте, буду брать ещё.",
+          "helpful": 18
+        },
+        {
+          "id": 2,
+          "author": "Елена С.",
+          "rating": 4,
+          "date": "2026-01-21",
+          "text": "Хорошая вещь за свои деньги, рекомендую.",
+          "helpful": 11
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Illy Classico",
+      "slug": "illy-classico",
+      "description": "Сбалансированный вкус, зерно",
+      "fullDescription": "Illy Classico — фирменный бленд с ровным, округлым вкусом. Нотки карамели, жасмина и тоста. Универсален для эспрессо и американо.",
+      "price": 1290,
+      "oldPrice": null,
+      "category": "coffee",
+      "categoryName": "Кофе",
+      "brand": "Illy",
+      "rating": 4.8,
+      "reviewCount": 34,
+      "inStock": true,
+      "stockQuantity": 7,
+      "badge": null,
+      "images": [
+        "/images/products/illy-classico-1.jpg"
+      ],
+      "specs": {
+        "Вес": "250 г",
+        "Тип обжарки": "Средняя",
+        "Вид кофе": "Арабика 100%",
+        "Страна": "Италия",
+        "Срок годности": "24 месяца"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Николай З.",
+          "rating": 5,
+          "date": "2026-01-09",
+          "text": "Отличное качество, полностью доволен покупкой.",
+          "helpful": 27
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Paulig Presidentti",
+      "slug": "paulig-presidentti",
+      "description": "Светлая обжарка, молотый",
+      "fullDescription": "Paulig Presidentti — лёгкий и ароматный кофе для спокойного утреннего ритуала. Мягкая кислинка и аккуратная сладость. Хорош для пуровера и френч-пресса.",
+      "price": 790,
+      "oldPrice": null,
+      "category": "coffee",
+      "categoryName": "Кофе",
+      "brand": "Paulig",
+      "rating": 4.6,
+      "reviewCount": 22,
+      "inStock": true,
+      "stockQuantity": 14,
+      "badge": null,
+      "images": [
+        "/images/products/paulig-presidentti-1.jpg"
+      ],
+      "specs": {
+        "Вес": "500 г",
+        "Тип обжарки": "Светлая",
+        "Вид кофе": "Арабика 100%",
+        "Страна": "Финляндия",
+        "Срок годности": "18 месяцев"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Андрей К.",
+          "rating": 5,
+          "date": "2026-01-12",
+          "text": "Упаковка и доставка без вопросов, всё пришло целым.",
+          "helpful": 9
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Кофе в дрип-пакетах Colombia",
+      "slug": "coffee-drip-colombia",
+      "description": "Дрипы, 10 шт",
+      "fullDescription": "Дрип-пакеты Colombia — быстрое приготовление без оборудования. Чистый вкус с цитрусовыми и карамельными нотами. Отлично для офиса и путешествий.",
+      "price": 390,
+      "oldPrice": null,
+      "category": "coffee",
+      "categoryName": "Кофе",
+      "brand": "BrewKit",
+      "rating": 4.5,
+      "reviewCount": 17,
+      "inStock": true,
+      "stockQuantity": 40,
+      "badge": null,
+      "images": [
+        "/images/products/drip-colombia-1.jpg"
+      ],
+      "specs": {
+        "Вес": "10 дрип-пакетов",
+        "Тип обжарки": "Средняя",
+        "Вид кофе": "Арабика 100%",
+        "Страна": "Колумбия",
+        "Срок годности": "12 месяцев"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Виктория Р.",
+          "rating": 4,
+          "date": "2026-01-05",
+          "text": "Хорошая вещь за свои деньги, рекомендую.",
+          "helpful": 14
+        },
+        {
+          "id": 2,
+          "author": "Ольга Н.",
+          "rating": 5,
+          "date": "2026-01-25",
+          "text": "Пользуюсь каждый день, очень удобно.",
+          "helpful": 21
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Кофе в капсулах Nespresso Compatible Crema",
+      "slug": "capsules-crema-nespresso",
+      "description": "Капсулы, 10 шт",
+      "fullDescription": "Капсулы Crema (совместимы с Nespresso) — плотная крема и яркий вкус. Нотки шоколада и орехов. Удобно для быстрого эспрессо.",
+      "price": 290,
+      "oldPrice": null,
+      "category": "coffee",
+      "categoryName": "Кофе",
+      "brand": "Capsula",
+      "rating": 4.4,
+      "reviewCount": 39,
+      "inStock": true,
+      "stockQuantity": 55,
+      "badge": "Хит продаж",
+      "images": [
+        "/images/products/capsules-crema-1.jpg"
+      ],
+      "specs": {
+        "Вес": "10 капсул",
+        "Тип обжарки": "Тёмная",
+        "Вид кофе": "Арабика/Робуста",
+        "Страна": "Италия",
+        "Срок годности": "24 месяца"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Роман Ш.",
+          "rating": 5,
+          "date": "2026-01-18",
+          "text": "Вкус/качество на высоте, буду брать ещё.",
+          "helpful": 33
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Эфиопия Yirgacheffe",
+      "slug": "ethiopia-yirgacheffe",
+      "description": "Светлая обжарка, зерно",
+      "fullDescription": "Эфиопия Yirgacheffe — яркая арабика с цветочным ароматом и нотками бергамота. Чистая чашка и сочная кислинка. Идеально для фильтра.",
+      "price": 1090,
+      "oldPrice": null,
+      "category": "coffee",
+      "categoryName": "Кофе",
+      "brand": "SingleOrigin",
+      "rating": 4.9,
+      "reviewCount": 41,
+      "inStock": true,
+      "stockQuantity": 6,
+      "badge": "Новинка",
+      "images": [
+        "/images/products/ethiopia-yirgacheffe-1.jpg",
+        "/images/products/ethiopia-yirgacheffe-2.jpg"
+      ],
+      "specs": {
+        "Вес": "250 г",
+        "Тип обжарки": "Светлая",
+        "Вид кофе": "Арабика 100%",
+        "Страна": "Эфиопия",
+        "Срок годности": "12 месяцев"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Татьяна М.",
+          "rating": 5,
+          "date": "2026-01-22",
+          "text": "Отличное качество, полностью доволен покупкой.",
+          "helpful": 16
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Бразилия Santos",
+      "slug": "brazil-santos",
+      "description": "Средняя обжарка, зерно",
+      "fullDescription": "Бразилия Santos — мягкий кофе с шоколадно-ореховым профилем. Низкая кислинка, ровное тело. Универсален для эспрессо и молочных напитков.",
+      "price": 890,
+      "oldPrice": null,
+      "category": "coffee",
+      "categoryName": "Кофе",
+      "brand": "SingleOrigin",
+      "rating": 4.7,
+      "reviewCount": 26,
+      "inStock": true,
+      "stockQuantity": 10,
+      "badge": null,
+      "images": [
+        "/images/products/brazil-santos-1.jpg"
+      ],
+      "specs": {
+        "Вес": "1000 г",
+        "Тип обжарки": "Средняя",
+        "Вид кофе": "Арабика 100%",
+        "Страна": "Бразилия",
+        "Срок годности": "12 месяцев"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Илья Ф.",
+          "rating": 4,
+          "date": "2026-01-14",
+          "text": "Хорошая вещь за свои деньги, рекомендую.",
+          "helpful": 8
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Руанда Bourbon",
+      "slug": "rwanda-bourbon",
+      "description": "Средняя обжарка, зерно",
+      "fullDescription": "Руанда Bourbon — кофе с ягодной сладостью и лёгкими нотами какао. Чистое послевкусие, хорошая структурность. Отлично в воронке и аэропрессе.",
+      "price": 1190,
+      "oldPrice": null,
+      "category": "coffee",
+      "categoryName": "Кофе",
+      "brand": "SingleOrigin",
+      "rating": 4.8,
+      "reviewCount": 13,
+      "inStock": true,
+      "stockQuantity": 5,
+      "badge": null,
+      "images": [
+        "/images/products/rwanda-bourbon-1.jpg"
+      ],
+      "specs": {
+        "Вес": "250 г",
+        "Тип обжарки": "Средняя",
+        "Вид кофе": "Арабика 100%",
+        "Страна": "Руанда",
+        "Срок годности": "12 месяцев"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Андрей К.",
+          "rating": 5,
+          "date": "2026-01-20",
+          "text": "Вкус/качество на высоте, буду брать ещё.",
+          "helpful": 12
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Decaf Swiss Water",
+      "slug": "decaf-swiss-water",
+      "description": "Без кофеина, зерно",
+      "fullDescription": "Decaf Swiss Water — безкофеиновый кофе с мягким вкусом и сладким послевкусием. Подходит для вечерних напитков без компромиссов по аромату.",
+      "price": 990,
+      "oldPrice": null,
+      "category": "coffee",
+      "categoryName": "Кофе",
+      "brand": "RoastLab",
+      "rating": 4.6,
+      "reviewCount": 11,
+      "inStock": true,
+      "stockQuantity": 8,
+      "badge": null,
+      "images": [
+        "/images/products/decaf-swiss-water-1.jpg"
+      ],
+      "specs": {
+        "Вес": "250 г",
+        "Тип обжарки": "Средняя",
+        "Вид кофе": "Арабика 100% (без кофеина)",
+        "Страна": "Канада",
+        "Срок годности": "12 месяцев"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Ольга Н.",
+          "rating": 4,
+          "date": "2026-01-11",
+          "text": "Отличное качество, полностью доволен покупкой.",
+          "helpful": 7
+        },
+        {
+          "id": 2,
+          "author": "Виктория Р.",
+          "rating": 5,
+          "date": "2026-01-26",
+          "text": "Пользуюсь каждый день, очень удобно.",
+          "helpful": 19
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Аэропресс AeroPress Go",
+      "slug": "aeropress-go",
+      "description": "Компактная кофеварка для путешествий",
+      "fullDescription": "AeroPress Go — компактная версия аэропресса со стаканом-кейсом. Быстро готовит насыщенный кофе с низкой горечью. Удобно брать в дорогу.",
+      "price": 3990,
+      "oldPrice": null,
+      "category": "accessories",
+      "categoryName": "Аксессуары",
+      "brand": "AeroPress",
+      "rating": 4.9,
+      "reviewCount": 58,
+      "inStock": true,
+      "stockQuantity": 10,
+      "badge": "Хит продаж",
+      "images": [
+        "/images/products/aeropress-go-1.jpg",
+        "/images/products/aeropress-go-2.jpg"
+      ],
+      "specs": {
+        "Материал": "Пластик (BPA-free)",
+        "Комплектация": "Кофеварка, стакан, фильтры",
+        "Объём": "~240 мл",
+        "Тип приготовления": "Пресс",
+        "Можно в посудомойку": "Да"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Роман Ш.",
+          "rating": 5,
+          "date": "2026-01-17",
+          "text": "Пользуюсь каждый день, очень удобно.",
+          "helpful": 35
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Кофемолка Timemore C2",
+      "slug": "kofemolka-timemore-c2",
+      "description": "Ручная кофемолка, жернова",
+      "fullDescription": "Timemore C2 — надёжная ручная кофемолка для дома и путешествий. Ровный помол, удобный хват и плавный ход. Подходит для фильтра, турки и аэропресса.",
+      "price": 3490,
+      "oldPrice": null,
+      "category": "accessories",
+      "categoryName": "Аксессуары",
+      "brand": "Timemore",
+      "rating": 4.8,
+      "reviewCount": 44,
+      "inStock": true,
+      "stockQuantity": 13,
+      "badge": null,
+      "images": [
+        "/images/products/timemore-c2-1.jpg"
+      ],
+      "specs": {
+        "Материал": "Алюминий/пластик",
+        "Жернова": "Стальные",
+        "Регулировка": "Ступенчатая",
+        "Вместимость": "20-25 г",
+        "Вес": "~430 г"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Николай З.",
+          "rating": 5,
+          "date": "2026-01-08",
+          "text": "Отличное качество, полностью доволен покупкой.",
+          "helpful": 24
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Весы кофейные с таймером",
+      "slug": "vesy-kofejnye-s-tajmerom",
+      "description": "Точные весы 0.1 г",
+      "fullDescription": "Кофейные весы с таймером помогают стабильно повторять рецепты. Точность 0.1 г, удобный таймер и автоотключение. Подходят для пуровера и эспрессо.",
+      "price": 1290,
+      "oldPrice": null,
+      "category": "accessories",
+      "categoryName": "Аксессуары",
+      "brand": "BrewScale",
+      "rating": 4.6,
+      "reviewCount": 31,
+      "inStock": true,
+      "stockQuantity": 20,
+      "badge": null,
+      "images": [
+        "/images/products/brew-scale-1.jpg"
+      ],
+      "specs": {
+        "Точность": "0.1 г",
+        "Макс. вес": "3 кг",
+        "Таймер": "Да",
+        "Питание": "USB-C",
+        "Автоотключение": "Да"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Елена С.",
+          "rating": 4,
+          "date": "2026-01-23",
+          "text": "Хорошая вещь за свои деньги, рекомендую.",
+          "helpful": 10
+        },
+        {
+          "id": 2,
+          "author": "Татьяна М.",
+          "rating": 5,
+          "date": "2026-01-06",
+          "text": "Пользуюсь каждый день, очень удобно.",
+          "helpful": 17
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Нок-бокс для кофе",
+      "slug": "knock-box",
+      "description": "Контейнер для выбивания кофе",
+      "fullDescription": "Нок-бокс — удобный аксессуар для выбивания кофейных таблеток. Прочная перекладина и нескользящее основание. Упрощает уход за рожковой кофемашиной.",
+      "price": 990,
+      "oldPrice": null,
+      "category": "accessories",
+      "categoryName": "Аксессуары",
+      "brand": "BaristaHome",
+      "rating": 4.5,
+      "reviewCount": 27,
+      "inStock": true,
+      "stockQuantity": 17,
+      "badge": null,
+      "images": [
+        "/images/products/knock-box-1.jpg"
+      ],
+      "specs": {
+        "Материал": "Пластик/резина",
+        "Диаметр": "~14 см",
+        "Основание": "Нескользящее",
+        "Перекладина": "Съёмная",
+        "Уход": "Легко мыть"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Илья Ф.",
+          "rating": 5,
+          "date": "2026-01-19",
+          "text": "Отличное качество, полностью доволен покупкой.",
+          "helpful": 13
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Питчер для молока 350 мл",
+      "slug": "pitcher-350",
+      "description": "Питчер для латте-арта",
+      "fullDescription": "Питчер 350 мл — для взбивания молока и латте-арта. Удобный носик, точная заливка и комфортная ручка. Подходит для капучино и латте.",
+      "price": 690,
+      "oldPrice": null,
+      "category": "accessories",
+      "categoryName": "Аксессуары",
+      "brand": "BaristaHome",
+      "rating": 4.7,
+      "reviewCount": 36,
+      "inStock": true,
+      "stockQuantity": 26,
+      "badge": null,
+      "images": [
+        "/images/products/milk-pitcher-350-1.jpg"
+      ],
+      "specs": {
+        "Объём": "350 мл",
+        "Материал": "Нержавеющая сталь",
+        "Носик": "Для латте-арта",
+        "Цвет": "Серебристый",
+        "Можно в посудомойку": "Да"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Мария К.",
+          "rating": 5,
+          "date": "2026-01-03",
+          "text": "Пользуюсь каждый день, очень удобно.",
+          "helpful": 20
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Веб-камера Logitech Brio 4K",
+      "slug": "webcam-logitech-brio-4k",
+      "description": "4K, автофокус, HDR",
+      "fullDescription": "Logitech Brio 4K — веб-камера для созвонов и стримов. Чёткая картинка, автофокус и хороший цвет даже при сложном освещении. Отличный выбор для удалённой работы.",
+      "price": 16990,
+      "oldPrice": null,
+      "category": "gadgets",
+      "categoryName": "Гаджеты",
+      "brand": "Logitech",
+      "rating": 4.7,
+      "reviewCount": 73,
+      "inStock": true,
+      "stockQuantity": 6,
+      "badge": null,
+      "images": [
+        "/images/products/logitech-brio-1.jpg"
+      ],
+      "specs": {
+        "Разрешение": "4K",
+        "Автофокус": "Да",
+        "HDR": "Да",
+        "Микрофоны": "2",
+        "Подключение": "USB",
+        "Совместимость": "Windows, macOS"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Андрей К.",
+          "rating": 5,
+          "date": "2026-01-10",
+          "text": "Отличное качество, полностью доволен покупкой.",
+          "helpful": 28
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Микрофон FIFINE K669B",
+      "slug": "microphone-fifine-k669b",
+      "description": "USB-микрофон для общения",
+      "fullDescription": "FIFINE K669B — простой USB-микрофон для звонков и записи голоса. Удобная регулировка усиления и понятное подключение. Хорош для стартового сетапа.",
+      "price": 1990,
+      "oldPrice": null,
+      "category": "gadgets",
+      "categoryName": "Гаджеты",
+      "brand": "FIFINE",
+      "rating": 4.6,
+      "reviewCount": 112,
+      "inStock": true,
+      "stockQuantity": 15,
+      "badge": "Хит продаж",
+      "images": [
+        "/images/products/fifine-k669b-1.jpg"
+      ],
+      "specs": {
+        "Подключение": "USB",
+        "Диаграмма": "Кардиоидная",
+        "Регулятор усиления": "Да",
+        "Совместимость": "Windows, macOS, Linux",
+        "Комплектация": "Стойка, кабель"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Ольга Н.",
+          "rating": 5,
+          "date": "2026-01-16",
+          "text": "Хорошая вещь за свои деньги, рекомендую.",
+          "helpful": 31
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Монитор Dell UltraSharp 27",
+      "slug": "monitor-dell-ultrasharp-27",
+      "description": "27\", IPS, QHD",
+      "fullDescription": "Dell UltraSharp 27 — монитор для работы с текстом и графикой. Чёткое QHD-разрешение, качественная матрица IPS и хорошие углы обзора. Подходит для длительной работы.",
+      "price": 31990,
+      "oldPrice": null,
+      "category": "gadgets",
+      "categoryName": "Гаджеты",
+      "brand": "Dell",
+      "rating": 4.8,
+      "reviewCount": 54,
+      "inStock": false,
+      "stockQuantity": 0,
+      "badge": null,
+      "images": [
+        "/images/products/dell-ultrasharp-27-1.jpg"
+      ],
+      "specs": {
+        "Диагональ": "27\"",
+        "Разрешение": "2560×1440 (QHD)",
+        "Матрица": "IPS",
+        "Частота": "60 Гц",
+        "Порты": "HDMI/DP/USB",
+        "Регулировка": "Высота/наклон/поворот"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Николай З.",
+          "rating": 5,
+          "date": "2026-01-24",
+          "text": "Отличное качество, полностью доволен покупкой.",
+          "helpful": 26
+        },
+        {
+          "id": 2,
+          "author": "Елена С.",
+          "rating": 4,
+          "date": "2026-01-13",
+          "text": "Упаковка и доставка без вопросов, всё пришло целым.",
+          "helpful": 12
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "SSD Samsung T7 1TB",
+      "slug": "ssd-samsung-t7-1tb",
+      "description": "Портативный SSD, 1 ТБ",
+      "fullDescription": "Samsung T7 1TB — быстрый портативный SSD для бэкапов и проектов. Компактный корпус и высокая скорость передачи. Удобен для работы между устройствами.",
+      "price": 9990,
+      "oldPrice": null,
+      "category": "gadgets",
+      "categoryName": "Гаджеты",
+      "brand": "Samsung",
+      "rating": 4.9,
+      "reviewCount": 88,
+      "inStock": true,
+      "stockQuantity": 9,
+      "badge": null,
+      "images": [
+        "/images/products/samsung-t7-1.jpg",
+        "/images/products/samsung-t7-2.jpg"
+      ],
+      "specs": {
+        "Объём": "1 ТБ",
+        "Интерфейс": "USB 3.2 Gen 2",
+        "Скорость": "До 1050 MB/s",
+        "Материал": "Алюминий",
+        "Совместимость": "Windows, macOS, Android"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Роман Ш.",
+          "rating": 5,
+          "date": "2026-01-04",
+          "text": "Пользуюсь каждый день, очень удобно.",
+          "helpful": 23
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Power Bank Anker 20000mAh",
+      "slug": "powerbank-anker-20000",
+      "description": "Пауэрбанк 20 000 мАч",
+      "fullDescription": "Anker 20000mAh — надёжный пауэрбанк для телефона и ноутбука (при поддержке PD). Высокая ёмкость и несколько портов. Подходит для поездок.",
+      "price": 4990,
+      "oldPrice": null,
+      "category": "gadgets",
+      "categoryName": "Гаджеты",
+      "brand": "Anker",
+      "rating": 4.7,
+      "reviewCount": 66,
+      "inStock": true,
+      "stockQuantity": 21,
+      "badge": null,
+      "images": [
+        "/images/products/anker-powerbank-20000-1.jpg"
+      ],
+      "specs": {
+        "Ёмкость": "20000 мАч",
+        "USB-C PD": "Да",
+        "Порты": "USB-C + 2×USB-A",
+        "Индикация": "LED",
+        "Вес": "~350 г"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Илья Ф.",
+          "rating": 4,
+          "date": "2026-01-27",
+          "text": "Хорошая вещь за свои деньги, рекомендую.",
+          "helpful": 15
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "\"The Pragmatic Programmer\"",
+      "slug": "pragmatic-programmer",
+      "description": "Классика о практике разработки",
+      "fullDescription": "\"The Pragmatic Programmer\" — книга о подходах, привычках и инструментах, которые делают разработку эффективнее. Много практических советов и принципов.",
+      "price": 2390,
+      "oldPrice": null,
+      "category": "books",
+      "categoryName": "Книги",
+      "brand": "Addison-Wesley",
+      "rating": 4.9,
+      "reviewCount": 142,
+      "inStock": true,
+      "stockQuantity": 11,
+      "badge": "Хит продаж",
+      "images": [
+        "/images/products/pragmatic-programmer-1.jpg"
+      ],
+      "specs": {
+        "Автор": "Andrew Hunt, David Thomas",
+        "Издательство": "Addison-Wesley",
+        "Страниц": "352",
+        "Год издания": "2019",
+        "Переплёт": "Мягкий",
+        "Язык": "Английский"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Андрей К.",
+          "rating": 5,
+          "date": "2026-01-02",
+          "text": "Отличное качество, полностью доволен покупкой.",
+          "helpful": 34
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "\"Design Patterns\" GoF",
+      "slug": "design-patterns-gof",
+      "description": "Паттерны проектирования",
+      "fullDescription": "\"Design Patterns\" (GoF) — база по паттернам объектно-ориентированного проектирования. Помогает говорить на одном языке при проектировании систем.",
+      "price": 2790,
+      "oldPrice": null,
+      "category": "books",
+      "categoryName": "Книги",
+      "brand": "Addison-Wesley",
+      "rating": 4.8,
+      "reviewCount": 121,
+      "inStock": true,
+      "stockQuantity": 7,
+      "badge": null,
+      "images": [
+        "/images/products/design-patterns-1.jpg"
+      ],
+      "specs": {
+        "Автор": "Erich Gamma и др.",
+        "Издательство": "Addison-Wesley",
+        "Страниц": "416",
+        "Год издания": "2015",
+        "Переплёт": "Твёрдый",
+        "Язык": "Английский"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Мария К.",
+          "rating": 5,
+          "date": "2026-01-18",
+          "text": "Вкус/качество на высоте, буду брать ещё.",
+          "helpful": 22
+        },
+        {
+          "id": 2,
+          "author": "Николай З.",
+          "rating": 4,
+          "date": "2026-01-09",
+          "text": "Упаковка и доставка без вопросов, всё пришло целым.",
+          "helpful": 13
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "\"Refactoring\" Мартин Фаулер",
+      "slug": "refactoring-fowler",
+      "description": "Улучшение дизайна существующего кода",
+      "fullDescription": "\"Refactoring\" — практическое руководство по улучшению кода без изменения поведения. Примеры рефакторинга и подход к поддержанию качества.",
+      "price": 2690,
+      "oldPrice": null,
+      "category": "books",
+      "categoryName": "Книги",
+      "brand": "Addison-Wesley",
+      "rating": 4.9,
+      "reviewCount": 97,
+      "inStock": true,
+      "stockQuantity": 9,
+      "badge": null,
+      "images": [
+        "/images/products/refactoring-1.jpg"
+      ],
+      "specs": {
+        "Автор": "Martin Fowler",
+        "Издательство": "Addison-Wesley",
+        "Страниц": "448",
+        "Год издания": "2018",
+        "Переплёт": "Твёрдый",
+        "Язык": "Английский"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Елена С.",
+          "rating": 5,
+          "date": "2026-01-21",
+          "text": "Отличное качество, полностью доволен покупкой.",
+          "helpful": 29
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "\"You Don’t Know JS Yet\"",
+      "slug": "you-dont-know-js-yet",
+      "description": "Глубокое понимание JavaScript",
+      "fullDescription": "\"You Don’t Know JS Yet\" — серия о том, как JavaScript работает под капотом. Полезна для тех, кто хочет уверенно разбираться в языке.",
+      "price": 1990,
+      "oldPrice": null,
+      "category": "books",
+      "categoryName": "Книги",
+      "brand": "O'Reilly",
+      "rating": 4.7,
+      "reviewCount": 83,
+      "inStock": true,
+      "stockQuantity": 16,
+      "badge": null,
+      "images": [
+        "/images/products/ydkjs-1.jpg"
+      ],
+      "specs": {
+        "Автор": "Kyle Simpson",
+        "Издательство": "O'Reilly",
+        "Страниц": "~350",
+        "Год издания": "2020",
+        "Переплёт": "Мягкий",
+        "Язык": "Английский"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Ольга Н.",
+          "rating": 4,
+          "date": "2026-01-14",
+          "text": "Хорошая вещь за свои деньги, рекомендую.",
+          "helpful": 10
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "\"Clean Architecture\" Роберт Мартин",
+      "slug": "clean-architecture-robert-martin",
+      "description": "Архитектура приложений",
+      "fullDescription": "\"Clean Architecture\" — о принципах построения поддерживаемых систем: границы, слои, зависимости. Помогает проектировать приложения, которые проще развивать.",
+      "price": 2290,
+      "oldPrice": null,
+      "category": "books",
+      "categoryName": "Книги",
+      "brand": "Питер",
+      "rating": 4.8,
+      "reviewCount": 74,
+      "inStock": true,
+      "stockQuantity": 10,
+      "badge": null,
+      "images": [
+        "/images/products/clean-architecture-1.jpg"
+      ],
+      "specs": {
+        "Автор": "Роберт Мартин",
+        "Издательство": "Питер",
+        "Страниц": "432",
+        "Год издания": "2021",
+        "Переплёт": "Твёрдый",
+        "Язык": "Русский"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Андрей К.",
+          "rating": 5,
+          "date": "2026-01-20",
+          "text": "Отличное качество, полностью доволен покупкой.",
+          "helpful": 25
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Набор фильтров V60 100 шт",
+      "slug": "filters-v60-100",
+      "description": "Фильтры для воронки V60",
+      "fullDescription": "Бумажные фильтры V60 — чистая чашка и стабильный пролив. Подходят для большинства воронок формата 01/02 (уточняйте размер). Удобная упаковка на 100 штук.",
+      "price": 290,
+      "oldPrice": null,
+      "category": "accessories",
+      "categoryName": "Аксессуары",
+      "brand": "Hario",
+      "rating": 4.8,
+      "reviewCount": 47,
+      "inStock": true,
+      "stockQuantity": 33,
+      "badge": null,
+      "images": [
+        "/images/products/v60-filters-1.jpg"
+      ],
+      "specs": {
+        "Количество": "100 шт",
+        "Тип": "Бумажные",
+        "Совместимость": "V60 01/02",
+        "Цвет": "Белые",
+        "Страна": "Япония"
+      },
+      "reviews": [
+        {
+          "id": 1,
+          "author": "Виктория Р.",
+          "rating": 5,
+          "date": "2026-01-12",
+          "text": "Пользуюсь каждый день, очень удобно.",
+          "helpful": 18
+        }
+      ]
+    }
+
+]
