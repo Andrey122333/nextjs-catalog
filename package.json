@@ -4,9 +4,9 @@
   "description": "Интернет-каталог 'Код и Кофе' на Next.js для НИР3",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3010",
+    "dev": "next dev -p 3000",
     "build": "next build",
-    "start": "PORT=3010 node .next/standalone/server.js",
+    "start": "PORT=3000 node .next/standalone/server.js",
     "lint": "next lint",
     "type-check": "tsc --noEmit"
   },

@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-Приложение будет доступно по адресу: http://localhost:3010
+Приложение будет доступно по адресу: http://localhost:3000
 
 ## Production сборка
 
@@ -39,7 +39,7 @@ npm start
 docker build -t nextjs-catalog .
 
 # Запуск
-docker run -p 3010:3010 nextjs-catalog
+docker run -p 3000:3000 nextjs-catalog
 ```
 
 Или используйте docker-compose в корне проекта:
