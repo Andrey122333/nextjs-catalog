@@ -86,8 +86,8 @@ export function filterProducts(filters: Partial<FilterState>): Product[] {
     case 'name_desc':
       filtered.sort((a, b) => b.name.localeCompare(a.name, 'ru'));
       break;
-    case 'popularity':
-      filtered.sort((a, b) => b.reviewCount - a.reviewCount);
+    case 'rating':
+      filtered.sort((a, b) => b.rating - a.rating);
       break;
     default:
       // По умолчанию: сначала хиты, потом новинки, потом остальные

@@ -1,13 +1,10 @@
-/**
- * Детальная страница товара (SSR)
- */
-
 import { getProductById, getSimilarProducts, formatPrice, getStockStatus } from '@/lib/products';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Header from '@/components/Header/Header';
 import Footer from '@/components/Footer/Footer';
 import ProductCard from '@/components/ProductCard/ProductCard';
+import AddToCartButton from './AddToCartButton';
 import styles from './product.module.css';
 
 interface ProductPageProps {
@@ -17,26 +14,15 @@ interface ProductPageProps {
 export async function generateMetadata({ params }: ProductPageProps) {
   const { id } = await params;
   const product = getProductById(Number(id));
-
-  if (!product) {
-    return {
-      title: 'Товар не найден',
-    };
-  }
-
-  return {
-    title: product.name,
-    description: product.description,
-  };
+  if (!product) return { title: 'Товар не найден' };
+  return { title: product.name, description: product.description };
 }
 
 export default async function ProductPage({ params }: ProductPageProps) {
   const { id } = await params;
   const product = getProductById(Number(id));
 
-  if (!product) {
-    notFound();
-  }
+  if (!product) notFound();
 
   const similarProducts = getSimilarProducts(product.id, 4);
   const stockStatus = getStockStatus(product);
@@ -57,7 +43,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
           <div className={styles.productLayout}>
             <div className={styles.imageSection}>
               <div className={styles.mainImage}>
-                {product.images[0] || 'Изображение'}
+                {product.images[0] ? product.images[0].split('/').pop()?.split('.')[0] : 'Изображение'}
               </div>
             </div>
 
@@ -77,9 +63,14 @@ export default async function ProductPage({ params }: ProductPageProps) {
               </div>
 
               <div className={styles.actions}>
-                <button className={styles.addButton}>
-                  Добавить в корзину
-                </button>
+                <AddToCartButton
+                  productId={product.id}
+                  name={product.name}
+                  price={product.price}
+                  image={product.images[0]}
+                  maxQuantity={product.stockQuantity}
+                  inStock={product.inStock}
+                />
               </div>
 
               <div className={styles.description}>

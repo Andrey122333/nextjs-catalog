@@ -110,8 +110,22 @@
   transition: background var(--transition-fast);
 }
 
-.addButton:hover {
+.addButton:hover:not(:disabled) {
   background: var(--color-primary-hover);
+}
+
+.addButton:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.addButtonInCart {
+  background: var(--color-success);
+}
+
+.addButtonInCart:hover:not(:disabled) {
+  background: var(--color-success);
+  opacity: 0.9;
 }
 
 .description {

@@ -55,9 +55,8 @@ export interface FilterState {
   priceMax: number;
   brands: string[];
   availability: 'all' | 'in_stock' | 'out_of_stock';
-  sort: 'default' | 'price_asc' | 'price_desc' | 'name_asc' | 'name_desc' | 'popularity';
+  sort: 'default' | 'price_asc' | 'price_desc' | 'name_asc' | 'name_desc' | 'rating';
   search: string;
-  page: number;
 }
 
 export interface CategoryInfo {

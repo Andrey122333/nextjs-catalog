@@ -1,96 +1,85 @@
 # Next.js Каталог "Код и Кофе"
 
-Интернет-магазин товаров для разработчиков на Next.js 15 с App Router и Server Components.
+Интернет-магазин товаров для разработчиков на Next.js 16 с App Router и Server Components.
 
 ## Технологии
 
-- **Next.js:** 15.1.0
-- **React:** 19.0.0
-- **TypeScript:** 5.3.3
+- **Next.js:** 16.2.6
+- **React:** 19.2.6
+- **TypeScript:** 6.0.3
 - **CSS Modules** для стилизации
+- **Turbopack** для сборки
 - **Server Components** для SSR
 - **Client Components** для интерактивности
-
-## Установка
-
-```bash
-npm install
-```
-
-## Разработка
-
-```bash
-npm run dev
-```
-
-Приложение будет доступно по адресу: http://localhost:3000
-
-## Production сборка
-
-```bash
-npm run build
-npm start
-```
 
 ## Docker
 
 ```bash
-# Сборка
 docker build -t nextjs-catalog .
-
-# Запуск
 docker run -p 3000:3000 nextjs-catalog
 ```
-
-Или используйте docker-compose в корне проекта:
-
-```bash
-cd ..
-docker-compose up nextjs-catalog
-```
+Приложение будет доступно по адресу: http://localhost:3000
 
 ## Структура проекта
 
 ```
 nextjs-catalog/
 ├── app/
-│   ├── layout.tsx          # Root Layout с CartProvider
-│   ├── page.tsx            # Редирект на /catalog
-│   ├── globals.css         # Глобальные стили
+│   ├── globals.css             # Глобальные стили (единая дизайн-система)
+│   ├── layout.tsx              # Root Layout с CartProvider
+│   ├── page.tsx                # Редирект на /catalog
 │   └── catalog/
-│       ├── page.tsx        # Страница каталога (SSR)
+│       ├── catalog.module.css
+│       ├── page.tsx            # Страница каталога (Server Component)
 │       └── [id]/
-│           └── page.tsx    # Детальная страница товара (SSR)
+│           ├── product.module.css
+│           ├── page.tsx        # Детальная страница (Server Component)
+│           └── AddToCartButton.tsx  # Кнопка корзины (Client Component)
 ├── components/
-│   ├── Header/             # Шапка сайта
-│   ├── Footer/             # Подвал
-│   └── ProductCard/        # Карточка товара
+│   ├── Filters/                # Панель фильтров (Client Component)
+│   ├── Footer/                 # Подвал
+│   ├── Header/                 # Шапка с корзиной (Client Component)
+│   ├── ProductCard/            # Карточка товара (Client Component)
+│   └── Sort/                   # Сортировка (Client Component)
 ├── lib/
-│   ├── types.ts            # TypeScript типы
-│   ├── products.ts         # Утилиты для работы с товарами
-│   └── cart-context.tsx    # Context API для корзины
-└── data/
-    └── products.json       # Данные товаров (24 шт.)
+│   ├── cart-context.tsx        # React Context для корзины
+│   ├── products.ts             # Утилиты и фильтрация товаров
+│   └── types.ts                # TypeScript типы
+├── data/
+│   └── products.json           # База товаров
+├── next.config.js
+└── tsconfig.json
 ```
 
-## Особенности реализации
+## Настройка переменных и обновление репозитория
 
-### Server-Side Rendering
+Для корректной работы автоматизированного процесса сборки и развертывания необходимо добавить переменные в репозиторий GitHub и выполнить обновление проекта.
 
-Все страницы рендерятся на сервере:
-- `/catalog` - список товаров с фильтрацией
-- `/catalog/[id]` - детальная страница товара
+### Добавление переменных репозитория
 
-### Client-Side интерактивность
+В интерфейсе GitHub открыть:
 
-- Корзина (React Context + LocalStorage)
-- Добавление товаров в корзину
-- Счётчик товаров в header
+```
+Settings → Actions secrets and variables → Variables
+```
 
-### Оптимизация производительности
+Добавить две переменные:
 
-- **Standalone output** для уменьшения размера Docker образа
-- **Lazy loading** изображений
-- **CSS Modules** для изоляции стилей
-- **Type-safe** с TypeScript strict mode
+- **REGISTRY** — адрес контейнерного реестра (например, `ghcr.io`)
+- **IMAGE_NAME** — имя Docker‑образа, используемое в процессе сборки
 
+Эти параметры позволяют workflow корректно формировать и публиковать контейнер приложения.
+
+---
+
+### Обновление репозитория
+
+После добавления переменных необходимо зафиксировать изменения в проекте и отправить их в основную ветку:
+
+```bash
+git add .
+git commit -m "Добавлены переменные для CI/CD"
+git push origin main
+```
+
+После отправки изменений GitHub автоматически запускает настроенный workflow, который выполняет сборку и публикацию образа, а также обновляет развернутое приложение.
